@@ -1,0 +1,104 @@
+#container{
+
+	width:800px;
+
+	margin-left:auto;
+
+	margin-right:auto;
+
+}
+
+body{
+
+	margin:0;
+
+}
+
+.header{
+
+	border-bottom:1px solid black;
+}
+
+.menu{
+
+	text-align:center;
+
+}
+
+.ipsum{
+
+	list-style-type:none;
+
+}
+
+.ipsum li{
+
+	display:inline;
+
+	text-transform:uppercase;
+
+	margin:2px;
+
+	text-align:center;
+
+	padding:0 12px;
+
+	border-top:3px solid #94e371;
+
+	border-bottom:3px solid #94e371;
+
+}
+
+.ipsum a{text-decoration:none;color:#012000;}
+
+.ipsum a:link{text-decoration:none;color:#012000;}
+
+.ipsum a:hover{text-decoration:none;color:#007000;}
+
+.ipsum a:visited{text-decoration:none;color:#007000;}
+
+.ipsum a:active{text-decoration:none;color:#007000;}
+
+.content{
+
+	margin:15px 0;
+
+}
+
+.ol{
+
+	float:left;
+
+	margin:20px;
+
+	border:1px solid black;
+
+}
+
+.op{
+
+	float:right;
+
+	margin:20px;
+
+	border:1px solid black;
+
+}
+
+.footer{
+
+	border-top:1px solid black;
+
+	background: url('img/rzezucha-dol.png') no-repeat center #eee;
+
+	text-align:center;
+
+	height: 100px;
+
+}
+
+.footer > p{
+
+	margin:0;
+
+}
